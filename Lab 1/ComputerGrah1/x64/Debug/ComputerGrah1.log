@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (ComputerGraph1.vcxproj, ComputerGraph1.vcxproj, mainw.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  main.cpp
+C:\Users\sword\Desktop\Lab 2\ComputerGrah1\main.cpp(160,50): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+  Shader.cpp
+  Создание кода...
+  ComputerGrah1.vcxproj -> C:\Users\sword\Desktop\Lab 2\x64\Debug\ComputerGrah1.exe
